@@ -2,3 +2,6 @@ miniconda3/
 # Exclude cache and temp files
 .cache/
 .vscode-server/
+# Ignore large files
+Miniconda3-latest-Linux-x86_64.sh
+experiments/
