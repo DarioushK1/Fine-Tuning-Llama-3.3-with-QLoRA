@@ -5,4 +5,4 @@ miniconda3/
 # Ignore large files
 Miniconda3-latest-Linux-x86_64.sh
 experiments/
-trained-model
+trained-model/
