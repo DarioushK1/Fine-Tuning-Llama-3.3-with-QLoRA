@@ -1,0 +1,6 @@
+channels:
+  - pytorch
+  - nvidia
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+channel_priority: strict

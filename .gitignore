@@ -1,0 +1,4 @@
+miniconda3/
+# Exclude cache and temp files
+.cache/
+.vscode-server/

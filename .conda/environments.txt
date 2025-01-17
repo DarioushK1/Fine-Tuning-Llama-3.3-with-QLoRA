@@ -1,0 +1,2 @@
+/home/dk12/miniconda3
+/home/dk12/miniconda3/envs/llama3_finetuning_env
